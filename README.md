@@ -4,7 +4,7 @@
 
 В данной репозитории представлены работы по применению эвристических алгоритмов. Состав лабораторных работ:
 
-1.[Алгоритм искусственных водорослей](https://github.com/vasser2323/Data_Mining/LAB_1/csv_files/README.md)
+1.[Алгоритм искусственных водорослей](https://github.com/vasser2323/Data_Mining/LAB_1)
 
 2.[Генетический алгоритм](https://github.com/vasser2323/Data_Mining/LAB_2/README.md)
 
