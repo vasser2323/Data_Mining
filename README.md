@@ -6,7 +6,7 @@
 
 1.[Алгоритм искусственных водорослей](https://github.com/vasser2323/Data_Mining/tree/main/LAB_1/csv_files)
 
-2.[Генетический алгоритм](https://github.com/vasser2323/Data_Mining/LAB_2/README.md)
+2.[Генетический алгоритм](https://github.com/vasser2323/Data_Mining/tree/main/LAB_2)
 
 3.[Генетический алгоритм для комбинаторики](https://github.com/vasser2323/Data_Mining/tree/main/LAB_3)
 
